@@ -20,3 +20,4 @@ This wasn’t just about visuals. It was about: ✅ Asking the right business qu
 
 Why I did this:
 I wanted to bridge the gap between raw numbers and real business strategy. Building this dashboard helped me dive deeper into what truly drives business performance—not just trends, but why they happen.
+![Screenshot 2025-04-29 115205](https://github.com/user-attachments/assets/85c292d2-9e9b-480d-a7e5-bcc16aa80f2b)
